@@ -22,9 +22,3 @@
 ## 📦 APK File
 You can download the APK file [here](./AjoyibRetseptlar.apk).
 
-## 🛠️ Technologies Used
-- **Kotlin** + **Android View components**  
-- **Glide** for loading and caching images  
-- **ViewPager2** and **RecyclerView** for content display  
-- **Lottie** for animations  
-- **Bottom Navigation** for smooth transitions
