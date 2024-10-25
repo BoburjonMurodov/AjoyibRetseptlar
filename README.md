@@ -21,4 +21,4 @@
 </p>
 
 ## 📦 APK File
-You can download the APK file [here](./AjoyibRetseptlar.apk).
+You can download the APK file [here](./app-debug.apk).
