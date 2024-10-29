@@ -21,4 +21,4 @@
 </p>
 
 ## 📦 APK File
-You can download the APK file [here](./app-debug.apk).
+You can download the APK file [here](https://github.com/BoburjonMurodov/AjoyibRetseptlar/releases/download/re/app-release.apk).
